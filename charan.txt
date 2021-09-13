@@ -1,3 +1,1 @@
-Change made in charan.txt
-This is the change made from github.
-This is the change made from local repo. :)
+This changed is made for branch V1.
