@@ -9,4 +9,8 @@ class Solution{
 		System.out.println("This is the change made from sricharna232000 account");
 
 	}
+	void newFeature(String a){
+		System.out.println("Feature is " + a);
+	}
+	
 }
